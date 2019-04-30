@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "88976da4-02ca-4560-8da8-2106a0c06bb5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "douji_rink_2": {
+      "ver": "1.0.3",
+      "uuid": "6a73b144-9b94-4597-b3c9-02e692ccf43c",
+      "rawTextureUuid": "88976da4-02ca-4560-8da8-2106a0c06bb5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1240,
+      "height": 720,
+      "rawWidth": 1240,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

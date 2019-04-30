@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_player_right",
+    "texture": "2fe53d6e-7d34-4042-9323-8c168dafedf4",
+    "atlas": "",
+    "rect": [
+      30,
+      9,
+      51,
+      84
+    ],
+    "offset": [
+      7.5,
+      -3
+    ],
+    "originalSize": [
+      96,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "douji_rink_2",
+    "texture": "88976da4-02ca-4560-8da8-2106a0c06bb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1240,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1240,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
